@@ -1,0 +1,8 @@
+def multiply (a,a)
+    answer = a*a
+def add (a,a)
+     answer = a+a
+     return (answer)
+
+print (multiply(add(4,4)))
+#expected outcome 20
