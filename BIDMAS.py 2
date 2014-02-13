@@ -1,0 +1,8 @@
+def add 4(a,a):
+     answer = a+a
+     return(answer)
+def multiply 3(a,a):
+     answer = a*a
+     return(answer)
+     
+print(add(multiply(1)
