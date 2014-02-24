@@ -1,6 +1,6 @@
 def multiply(a,b):
-    answer =  axb
+    answer =  a*b
     return (answer)
 
-print (multiply(4,12))
+print (multiply(4,4))
 #expected outcome is 16
